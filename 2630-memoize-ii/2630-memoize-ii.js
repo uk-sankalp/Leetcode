@@ -1,6 +1,3 @@
-/**
- * @param {Function} fn
- */
 function memoize(fn) {
     const cache = Object.create(null);
     const syms = [];
