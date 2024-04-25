@@ -26,7 +26,7 @@ function memoize(fn) {
 }
 
 
-/** so here
+/** so here is
  * let callCount = 0;
  * const memoizedFn = memoize(function (a, b) {
  *	 callCount += 1;
