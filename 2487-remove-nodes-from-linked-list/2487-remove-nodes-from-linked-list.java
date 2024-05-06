@@ -11,7 +11,7 @@
 class Solution {
     public ListNode removeNodes(ListNode head) {
         ListNode cur = head;
-        Stack<ListNode> stack = new Stack<>();   //i will lean this in future
+        Stack<ListNode> stack = new Stack<>();   //i will lean this in future,medium prob
         
         while (cur != null) {
             while (!stack.isEmpty() && stack.peek().val < cur.val) {
