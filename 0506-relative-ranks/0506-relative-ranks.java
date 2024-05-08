@@ -2,7 +2,7 @@ class Solution {
     public String[] findRelativeRanks(int[] score) {
         int N = score.length;
 
-        // Create a max heap of pairs (score, index)
+        // Create a max heap of pairs (score, index)..
         PriorityQueue<Pair<Integer, Integer>> heap = new PriorityQueue<>(
                 (a, b) -> b.getKey() - a.getKey());
         for (int i = 0; i < N; i++) {
