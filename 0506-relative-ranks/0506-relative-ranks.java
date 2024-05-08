@@ -9,7 +9,7 @@ class Solution {
             heap.add(new Pair<>(score[i], i));
         }
 
-        // Assign ranks to athletes
+        // Assign ranks to athletes..
         String[] rank = new String[N];
         int place = 1;
         while (!heap.isEmpty()) {
