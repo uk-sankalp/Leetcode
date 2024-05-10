@@ -1,4 +1,4 @@
-//Tackkle this 
+//Tackkle this problem in future
 class Solution {
     public int[] kthSmallestPrimeFraction(int[] arr, int k) {
         
