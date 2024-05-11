@@ -52,4 +52,4 @@ class Solution {
         }
     }
 }
-//This problem is bit difficult to understand
+//This problem is difficult to understand.i will solve this prob again
