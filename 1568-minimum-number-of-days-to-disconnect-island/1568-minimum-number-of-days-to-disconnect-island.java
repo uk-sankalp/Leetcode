@@ -23,7 +23,7 @@ class Solution {
             }
         }
     }
-    public int minDays(int[][] grid) {
+    public int minDays(int[][] grid) { //here we gonna dry run
         n = grid.length;
         m = grid[0].length;
 
