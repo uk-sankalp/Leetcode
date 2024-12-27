@@ -1,7 +1,7 @@
 class Solution {
     static int check = 0;
     public boolean isValid(char[][] board, int row, int col, char num) {
-         // check row
+         // check in row wise man
         for(int j = 0; j < 9; j++) {
             if(board[row][j]==num) return false;
         }   
