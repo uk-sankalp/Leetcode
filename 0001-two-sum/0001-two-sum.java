@@ -11,4 +11,4 @@ class Solution {
         return new int[]{}; 
     }
 }
-// This is the simplest 
+// This is the simplest approach 
