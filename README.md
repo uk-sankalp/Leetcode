@@ -8,6 +8,7 @@
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uk-sankalp/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2308-divide-array-into-equal-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uk-sankalp/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/uk-sankalp/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/uk-sankalp/Leetcode/tree/master/2690-house-robber-iv) |
@@ -55,6 +56,7 @@
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/uk-sankalp/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
+| [2478-longest-nice-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [3483-alternating-groups-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Binary Search
@@ -78,4 +80,5 @@
 |  |
 | ------- |
 | [2308-divide-array-into-equal-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2478-longest-nice-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/2478-longest-nice-subarray) |
 <!---LeetCode Topics End-->
