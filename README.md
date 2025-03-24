@@ -114,6 +114,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [2793-count-the-number-of-complete-components](https://github.com/uk-sankalp/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -127,4 +128,16 @@
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/uk-sankalp/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Stack
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
