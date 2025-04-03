@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/uk-sankalp/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -57,6 +58,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/uk-sankalp/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -115,6 +117,7 @@
 ## Union Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/uk-sankalp/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/uk-sankalp/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -134,10 +137,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [2793-count-the-number-of-complete-components](https://github.com/uk-sankalp/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/uk-sankalp/Leetcode/tree/master/2793-count-the-number-of-complete-components) |
 ## Dynamic Programming
