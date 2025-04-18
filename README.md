@@ -92,6 +92,7 @@
 ## String
 |  |
 | ------- |
+| [0038-count-and-say](https://github.com/uk-sankalp/Leetcode/tree/master/0038-count-and-say) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/uk-sankalp/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/uk-sankalp/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
