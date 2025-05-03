@@ -11,5 +11,5 @@ class Solution {
         return new int[]{}; 
     }
 }
-//this is the 
+//this is the brute force solution
 // This is the simplest approach n2
