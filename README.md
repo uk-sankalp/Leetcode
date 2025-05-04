@@ -10,6 +10,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1036-rotting-oranges](https://github.com/uk-sankalp/Leetcode/tree/master/1036-rotting-oranges) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/uk-sankalp/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/uk-sankalp/Leetcode/tree/master/1656-count-good-triplets) |
@@ -84,6 +85,7 @@
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1500-count-largest-group](https://github.com/uk-sankalp/Leetcode/tree/master/1500-count-largest-group) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/uk-sankalp/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -151,6 +153,7 @@
 ## Counting
 |  |
 | ------- |
+| [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2308-divide-array-into-equal-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uk-sankalp/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Prefix Sum
