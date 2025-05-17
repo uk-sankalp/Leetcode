@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -61,6 +62,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uk-sankalp/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -279,6 +281,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/uk-sankalp/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
