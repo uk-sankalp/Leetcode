@@ -13,3 +13,4 @@ class Solution {
 }
 //this is the brute force solution
 // This is the simplest approach n2
+//i have a  better alternative 
