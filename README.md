@@ -173,6 +173,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/uk-sankalp/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/uk-sankalp/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/uk-sankalp/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/uk-sankalp/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
@@ -319,6 +320,7 @@
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/uk-sankalp/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/uk-sankalp/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2262-solving-questions-with-brainpower](https://github.com/uk-sankalp/Leetcode/tree/master/2262-solving-questions-with-brainpower) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/uk-sankalp/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/uk-sankalp/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/uk-sankalp/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -388,6 +390,7 @@
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/uk-sankalp/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/uk-sankalp/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/uk-sankalp/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2681-put-marbles-in-bags](https://github.com/uk-sankalp/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/uk-sankalp/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/uk-sankalp/Leetcode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 ## Trie
 |  |
 | ------- |
