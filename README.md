@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
+| [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -128,6 +129,7 @@
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
+| [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
@@ -238,6 +240,7 @@
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -382,6 +385,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
