@@ -102,6 +102,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/uk-sankalp/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -133,6 +134,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
@@ -186,6 +188,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/uk-sankalp/Leetcode/tree/master/0038-count-and-say) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
