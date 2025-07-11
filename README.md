@@ -44,6 +44,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/uk-sankalp/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/uk-sankalp/Leetcode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -98,6 +99,7 @@
 | [2048-build-array-from-permutation](https://github.com/uk-sankalp/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/uk-sankalp/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uk-sankalp/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/uk-sankalp/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Math
 |  |
@@ -151,6 +153,7 @@
 | [2215-finding-3-digit-even-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/uk-sankalp/Leetcode/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -406,6 +409,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/uk-sankalp/Leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/uk-sankalp/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/uk-sankalp/Leetcode/tree/master/2681-put-marbles-in-bags) |
@@ -422,6 +426,7 @@
 | ------- |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/uk-sankalp/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/uk-sankalp/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/uk-sankalp/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/uk-sankalp/Leetcode/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
