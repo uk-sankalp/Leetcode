@@ -207,6 +207,7 @@
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/uk-sankalp/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/uk-sankalp/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/uk-sankalp/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/uk-sankalp/Leetcode/tree/master/2079-delete-duplicate-folders-in-system) |
