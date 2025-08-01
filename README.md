@@ -8,6 +8,7 @@
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
@@ -385,6 +386,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
 | [0152-maximum-product-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0416-partition-equal-subset-sum) |
