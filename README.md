@@ -18,6 +18,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0792-binary-search](https://github.com/uk-sankalp/Leetcode/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/uk-sankalp/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/uk-sankalp/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/uk-sankalp/Leetcode/tree/master/1036-rotting-oranges) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -161,6 +162,7 @@
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/uk-sankalp/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -249,6 +251,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/uk-sankalp/Leetcode/tree/master/0940-fruit-into-baskets) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/uk-sankalp/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1813-maximum-erasure-value](https://github.com/uk-sankalp/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/uk-sankalp/Leetcode/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
