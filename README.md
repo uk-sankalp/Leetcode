@@ -55,6 +55,7 @@
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/uk-sankalp/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/uk-sankalp/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2478-longest-nice-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/uk-sankalp/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -150,6 +151,7 @@
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2202-sum-of-k-mirror-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/2202-sum-of-k-mirror-numbers) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/uk-sankalp/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/uk-sankalp/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/uk-sankalp/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [2998-count-symmetric-integers](https://github.com/uk-sankalp/Leetcode/tree/master/2998-count-symmetric-integers) |
