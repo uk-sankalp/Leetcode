@@ -26,6 +26,7 @@
 | [1293-three-consecutive-odds](https://github.com/uk-sankalp/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/uk-sankalp/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/uk-sankalp/Leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/uk-sankalp/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -218,6 +219,7 @@
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0945-snakes-and-ladders](https://github.com/uk-sankalp/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/uk-sankalp/Leetcode/tree/master/1036-rotting-oranges) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/uk-sankalp/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -428,6 +430,7 @@
 | [0826-soup-servings](https://github.com/uk-sankalp/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/uk-sankalp/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/uk-sankalp/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/uk-sankalp/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/uk-sankalp/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
