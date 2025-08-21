@@ -31,6 +31,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/uk-sankalp/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
+| [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1656-count-good-triplets](https://github.com/uk-sankalp/Leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/uk-sankalp/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/uk-sankalp/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -220,6 +221,7 @@
 | [0945-snakes-and-ladders](https://github.com/uk-sankalp/Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1036-rotting-oranges](https://github.com/uk-sankalp/Leetcode/tree/master/1036-rotting-oranges) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [3227-find-missing-and-repeated-values](https://github.com/uk-sankalp/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
@@ -431,6 +433,7 @@
 | [0867-new-21-game](https://github.com/uk-sankalp/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/uk-sankalp/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/uk-sankalp/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/uk-sankalp/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -461,6 +464,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uk-sankalp/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
@@ -550,6 +554,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
