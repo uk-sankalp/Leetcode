@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
+| [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
@@ -183,6 +184,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
+| [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
@@ -224,6 +226,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0498-diagonal-traverse](https://github.com/uk-sankalp/Leetcode/tree/master/0498-diagonal-traverse) |
@@ -576,6 +579,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0679-24-game](https://github.com/uk-sankalp/Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/uk-sankalp/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/uk-sankalp/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
