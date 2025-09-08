@@ -11,6 +11,7 @@
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uk-sankalp/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0134-gas-station](https://github.com/uk-sankalp/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
@@ -565,6 +566,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/uk-sankalp/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/uk-sankalp/Leetcode/tree/master/0797-rabbits-in-forest) |
 | [1448-maximum-69-number](https://github.com/uk-sankalp/Leetcode/tree/master/1448-maximum-69-number) |
