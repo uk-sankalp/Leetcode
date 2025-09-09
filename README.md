@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/uk-sankalp/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
@@ -327,6 +328,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/uk-sankalp/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/uk-sankalp/Leetcode/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
