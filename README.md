@@ -128,6 +128,7 @@
 | ------- |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
+| [0125-valid-palindrome](https://github.com/uk-sankalp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uk-sankalp/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -273,6 +274,7 @@
 | ------- |
 | [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0038-count-and-say](https://github.com/uk-sankalp/Leetcode/tree/master/0038-count-and-say) |
+| [0125-valid-palindrome](https://github.com/uk-sankalp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/uk-sankalp/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
