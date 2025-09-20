@@ -768,4 +768,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/uk-sankalp/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Database
+|  |
+| ------- |
+| [1801-average-time-of-process-per-machine](https://github.com/uk-sankalp/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 <!---LeetCode Topics End-->
