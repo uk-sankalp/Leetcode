@@ -163,6 +163,7 @@
 | [0009-palindrome-number](https://github.com/uk-sankalp/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uk-sankalp/Leetcode/tree/master/0050-powx-n) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/uk-sankalp/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/uk-sankalp/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/uk-sankalp/Leetcode/tree/master/0342-power-of-four) |
@@ -218,6 +219,7 @@
 | [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uk-sankalp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -300,6 +302,7 @@
 | [0125-valid-palindrome](https://github.com/uk-sankalp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1006-vowel-spellchecker](https://github.com/uk-sankalp/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/uk-sankalp/Leetcode/tree/master/1058-lexicographically-smallest-equivalent-string) |
