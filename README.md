@@ -12,6 +12,7 @@
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uk-sankalp/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/uk-sankalp/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
@@ -503,6 +504,7 @@
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
+| [0120-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/uk-sankalp/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
