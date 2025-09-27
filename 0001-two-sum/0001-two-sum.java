@@ -12,5 +12,5 @@ class Solution {
     }
 }
 
-// init
+
 //main
