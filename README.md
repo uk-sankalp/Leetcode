@@ -33,6 +33,7 @@
 | [1006-vowel-spellchecker](https://github.com/uk-sankalp/Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-largest-perimeter-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/1018-largest-perimeter-triangle) |
 | [1036-rotting-oranges](https://github.com/uk-sankalp/Leetcode/tree/master/1036-rotting-oranges) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/uk-sankalp/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/uk-sankalp/Leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/uk-sankalp/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -518,6 +519,7 @@
 | [0826-soup-servings](https://github.com/uk-sankalp/Leetcode/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/uk-sankalp/Leetcode/tree/master/0867-new-21-game) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
+| [1111-minimum-score-triangulation-of-polygon](https://github.com/uk-sankalp/Leetcode/tree/master/1111-minimum-score-triangulation-of-polygon) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/uk-sankalp/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
