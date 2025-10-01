@@ -1,28 +1,25 @@
 class Solution {
-   public static  int maxSubArray(int[] nums) {
-    int max_sum=Integer.MIN_VALUE;
-        int max_neg=Integer.MIN_VALUE;
-        int current=0;
-        boolean allnegative=true;
-        for (int i = 0; i < nums.length; i++) {
-            if(nums[i]>max_neg){
-                max_neg=nums[i];
+    public int maxSubArray(int[] nums) {
+        int maxsum=Integer.MIN_VALUE;
+        int sum=0;
+        for(int i=0;i<nums.length;i++){
+            sum+=nums[i];
+            if(sum<0){
+                sum=0;
             }
-            if(nums[i]>0){
-                allnegative=false;
-                break;
+            if(sum>maxsum){
+                maxsum=sum;
             }
         }
-        if(allnegative){
-            return max_neg;
+        if(maxsum==0){
+            int high=Integer.MIN_VALUE;
+            for(int i=0;i<nums.length;i++){
+                if(nums[i]>high){
+                    high=nums[i];
+                }
+            }
+            return high;
         }
-        for (int i = 0; i < nums.length; i++) {
-            current+=nums[i];
-            if(current<0){
-                current=0;
-            }
-            max_sum=Math.max(current,max_sum);
-            }
-        return max_sum;
+        return maxsum;
     }
 }
