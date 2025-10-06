@@ -146,6 +146,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/uk-sankalp/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/uk-sankalp/Leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/uk-sankalp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/0165-compare-version-numbers) |
@@ -794,6 +795,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/uk-sankalp/Leetcode/tree/master/0061-rotate-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Hash Function
 |  |
