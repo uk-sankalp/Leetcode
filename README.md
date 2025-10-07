@@ -20,6 +20,7 @@
 | [0134-gas-station](https://github.com/uk-sankalp/Leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/uk-sankalp/Leetcode/tree/master/0135-candy) |
 | [0152-maximum-product-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0152-maximum-product-subarray) |
+| [0162-find-peak-element](https://github.com/uk-sankalp/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
@@ -394,6 +395,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/uk-sankalp/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/uk-sankalp/Leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/uk-sankalp/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/uk-sankalp/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/uk-sankalp/Leetcode/tree/master/0794-swim-in-rising-water) |
