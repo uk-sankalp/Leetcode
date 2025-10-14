@@ -522,6 +522,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0386-lexicographical-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/0386-lexicographical-numbers) |
@@ -538,6 +539,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0407-trapping-rain-water-ii) |
@@ -611,6 +613,7 @@
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/uk-sankalp/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -620,6 +623,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
