@@ -8,7 +8,6 @@ class Solution {
         return true;
     }
     public List<String> removeAnagrams(String[] words) {
-        List<String> ans=new ArrayList<>();
         List<String> dummy=new ArrayList<>();
         for(int i=0;i<words.length;i++){
             dummy.add(words[i]);
