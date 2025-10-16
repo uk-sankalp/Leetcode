@@ -98,6 +98,7 @@
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uk-sankalp/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/uk-sankalp/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/uk-sankalp/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/uk-sankalp/Leetcode/tree/master/2690-house-robber-iv) |
@@ -219,6 +220,7 @@
 | [2432-number-of-zero-filled-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/uk-sankalp/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2649-count-total-number-of-colored-cells](https://github.com/uk-sankalp/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2998-count-symmetric-integers](https://github.com/uk-sankalp/Leetcode/tree/master/2998-count-symmetric-integers) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/uk-sankalp/Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -278,6 +280,7 @@
 | [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/uk-sankalp/Leetcode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2915-count-of-interesting-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
@@ -705,6 +708,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/uk-sankalp/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2681-put-marbles-in-bags](https://github.com/uk-sankalp/Leetcode/tree/master/2681-put-marbles-in-bags) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/uk-sankalp/Leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
