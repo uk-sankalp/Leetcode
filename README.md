@@ -187,6 +187,7 @@
 | [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/uk-sankalp/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3790-fruits-into-baskets-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3790-fruits-into-baskets-ii) |
 | [3794-find-the-minimum-amount-of-time-to-brew-potions](https://github.com/uk-sankalp/Leetcode/tree/master/3794-find-the-minimum-amount-of-time-to-brew-potions) |
 ## Math
@@ -245,6 +246,7 @@
 | [3637-count-number-of-balanced-permutations](https://github.com/uk-sankalp/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/uk-sankalp/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/uk-sankalp/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3830-find-closest-person](https://github.com/uk-sankalp/Leetcode/tree/master/3830-find-closest-person) |
 ## Hash Table
 |  |
@@ -337,6 +339,7 @@
 | [2415-count-the-number-of-ideal-arrays](https://github.com/uk-sankalp/Leetcode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2610-closest-prime-numbers-in-range](https://github.com/uk-sankalp/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## String
 |  |
 | ------- |
@@ -387,6 +390,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/uk-sankalp/Leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/uk-sankalp/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3797-design-spreadsheet](https://github.com/uk-sankalp/Leetcode/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
@@ -764,6 +768,7 @@
 | [3548-find-the-count-of-good-integers](https://github.com/uk-sankalp/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3637-count-number-of-balanced-permutations](https://github.com/uk-sankalp/Leetcode/tree/master/3637-count-number-of-balanced-permutations) |
 | [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/uk-sankalp/Leetcode/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
