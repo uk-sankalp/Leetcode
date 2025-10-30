@@ -56,6 +56,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/uk-sankalp/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/uk-sankalp/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1656-count-good-triplets](https://github.com/uk-sankalp/Leetcode/tree/master/1656-count-good-triplets) |
 | [1813-maximum-erasure-value](https://github.com/uk-sankalp/Leetcode/tree/master/1813-maximum-erasure-value) |
 | [1917-maximum-average-pass-ratio](https://github.com/uk-sankalp/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
@@ -614,6 +615,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/uk-sankalp/Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/uk-sankalp/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/uk-sankalp/Leetcode/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/uk-sankalp/Leetcode/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/uk-sankalp/Leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
@@ -649,6 +651,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/uk-sankalp/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uk-sankalp/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/uk-sankalp/Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/uk-sankalp/Leetcode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -740,6 +743,7 @@
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/uk-sankalp/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/uk-sankalp/Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/uk-sankalp/Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/uk-sankalp/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/uk-sankalp/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1917-maximum-average-pass-ratio](https://github.com/uk-sankalp/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/uk-sankalp/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
@@ -765,6 +769,7 @@
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/uk-sankalp/Leetcode/tree/master/1628-count-submatrices-with-all-ones) |
+| [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/uk-sankalp/Leetcode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [3001-apply-operations-to-maximize-score](https://github.com/uk-sankalp/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Backtracking
 |  |
