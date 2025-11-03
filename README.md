@@ -165,6 +165,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uk-sankalp/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/uk-sankalp/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/uk-sankalp/Leetcode/tree/master/0061-rotate-list) |
@@ -365,6 +366,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/uk-sankalp/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/uk-sankalp/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/uk-sankalp/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0038-count-and-say](https://github.com/uk-sankalp/Leetcode/tree/master/0038-count-and-say) |
@@ -608,6 +610,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/uk-sankalp/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
 | [0120-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0120-triangle) |
