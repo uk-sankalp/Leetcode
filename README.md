@@ -939,6 +939,7 @@
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/uk-sankalp/Leetcode/tree/master/0584-find-customer-referee) |
 | [1801-average-time-of-process-per-machine](https://github.com/uk-sankalp/Leetcode/tree/master/1801-average-time-of-process-per-machine) |
 ## Bitmask
 |  |
