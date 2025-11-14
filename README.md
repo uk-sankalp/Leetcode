@@ -105,6 +105,7 @@
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/uk-sankalp/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2625-increment-submatrices-by-one](https://github.com/uk-sankalp/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2665-minimum-time-to-repair-cars](https://github.com/uk-sankalp/Leetcode/tree/master/2665-minimum-time-to-repair-cars) |
@@ -358,6 +359,7 @@
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/uk-sankalp/Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/uk-sankalp/Leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/uk-sankalp/Leetcode/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2625-increment-submatrices-by-one](https://github.com/uk-sankalp/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [3227-find-missing-and-repeated-values](https://github.com/uk-sankalp/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/uk-sankalp/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -521,6 +523,7 @@
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/uk-sankalp/Leetcode/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2529-range-product-queries-of-powers](https://github.com/uk-sankalp/Leetcode/tree/master/2529-range-product-queries-of-powers) |
 | [2538-minimum-cost-to-make-array-equal](https://github.com/uk-sankalp/Leetcode/tree/master/2538-minimum-cost-to-make-array-equal) |
+| [2625-increment-submatrices-by-one](https://github.com/uk-sankalp/Leetcode/tree/master/2625-increment-submatrices-by-one) |
 | [2915-count-of-interesting-subarrays](https://github.com/uk-sankalp/Leetcode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/uk-sankalp/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/uk-sankalp/Leetcode/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
