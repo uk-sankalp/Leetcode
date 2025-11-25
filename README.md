@@ -25,6 +25,7 @@
 | [0162-find-peak-element](https://github.com/uk-sankalp/Leetcode/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0209-minimum-size-subarray-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uk-sankalp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
@@ -733,6 +734,7 @@
 | ------- |
 | [0015-3sum](https://github.com/uk-sankalp/Leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
+| [0215-kth-largest-element-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0368-largest-divisible-subset](https://github.com/uk-sankalp/Leetcode/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
@@ -772,6 +774,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0407-trapping-rain-water-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0794-swim-in-rising-water](https://github.com/uk-sankalp/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/uk-sankalp/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
@@ -894,6 +897,7 @@
 | ------- |
 | [0053-maximum-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0215-kth-largest-element-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2280-count-good-triplets-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/2280-count-good-triplets-in-an-array) |
 ## Binary Indexed Tree
 |  |
@@ -993,4 +997,8 @@
 |  |
 | ------- |
 | [3233-maximize-the-number-of-partitions-after-operations](https://github.com/uk-sankalp/Leetcode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/uk-sankalp/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
