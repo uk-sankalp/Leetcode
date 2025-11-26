@@ -488,6 +488,7 @@
 | [0035-search-insert-position](https://github.com/uk-sankalp/Leetcode/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/uk-sankalp/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/uk-sankalp/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0792-binary-search](https://github.com/uk-sankalp/Leetcode/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/uk-sankalp/Leetcode/tree/master/0794-swim-in-rising-water) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/uk-sankalp/Leetcode/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -558,6 +559,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/uk-sankalp/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/uk-sankalp/Leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/uk-sankalp/Leetcode/tree/master/0342-power-of-four) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/uk-sankalp/Leetcode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
@@ -720,6 +722,7 @@
 | [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/uk-sankalp/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/uk-sankalp/Leetcode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/uk-sankalp/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -731,6 +734,7 @@
 | [0100-same-tree](https://github.com/uk-sankalp/Leetcode/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/uk-sankalp/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/uk-sankalp/Leetcode/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 ## Sorting
 |  |
