@@ -850,6 +850,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/uk-sankalp/Leetcode/tree/master/0077-combinations) |
 | [0679-24-game](https://github.com/uk-sankalp/Leetcode/tree/master/0679-24-game) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/uk-sankalp/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2140-longest-subsequence-repeated-k-times](https://github.com/uk-sankalp/Leetcode/tree/master/2140-longest-subsequence-repeated-k-times) |
