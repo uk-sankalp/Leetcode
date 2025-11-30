@@ -189,6 +189,7 @@
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/uk-sankalp/Leetcode/tree/master/0125-valid-palindrome) |
 | [0165-compare-version-numbers](https://github.com/uk-sankalp/Leetcode/tree/master/0165-compare-version-numbers) |
+| [0202-happy-number](https://github.com/uk-sankalp/Leetcode/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/uk-sankalp/Leetcode/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/uk-sankalp/Leetcode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/uk-sankalp/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -227,6 +228,7 @@
 | [0013-roman-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/uk-sankalp/Leetcode/tree/master/0050-powx-n) |
 | [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/uk-sankalp/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/uk-sankalp/Leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/uk-sankalp/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/uk-sankalp/Leetcode/tree/master/0342-power-of-four) |
@@ -299,6 +301,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
 | [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0202-happy-number](https://github.com/uk-sankalp/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/uk-sankalp/Leetcode/tree/master/0380-insert-delete-getrandom-o1) |
 | [0594-longest-harmonious-subsequence](https://github.com/uk-sankalp/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
