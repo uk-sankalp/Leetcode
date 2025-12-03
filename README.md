@@ -14,6 +14,7 @@
 | [0039-combination-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/uk-sankalp/Leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/uk-sankalp/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/uk-sankalp/Leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/0118-pascals-triangle) |
@@ -370,6 +371,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/uk-sankalp/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/uk-sankalp/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/uk-sankalp/Leetcode/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/uk-sankalp/Leetcode/tree/master/0417-pacific-atlantic-water-flow) |
@@ -497,6 +499,7 @@
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/uk-sankalp/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/uk-sankalp/Leetcode/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/uk-sankalp/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/uk-sankalp/Leetcode/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/uk-sankalp/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/uk-sankalp/Leetcode/tree/master/0222-count-complete-tree-nodes) |
