@@ -304,6 +304,7 @@
 | [0073-set-matrix-zeroes](https://github.com/uk-sankalp/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/uk-sankalp/Leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/uk-sankalp/Leetcode/tree/master/0127-word-ladder) |
+| [0138-copy-list-with-random-pointer](https://github.com/uk-sankalp/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0166-fraction-to-recurring-decimal](https://github.com/uk-sankalp/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0202-happy-number](https://github.com/uk-sankalp/Leetcode/tree/master/0202-happy-number) |
 | [0229-majority-element-ii](https://github.com/uk-sankalp/Leetcode/tree/master/0229-majority-element-ii) |
@@ -988,6 +989,7 @@
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/uk-sankalp/Leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/uk-sankalp/Leetcode/tree/master/0061-rotate-list) |
+| [0138-copy-list-with-random-pointer](https://github.com/uk-sankalp/Leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/uk-sankalp/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/uk-sankalp/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Function
