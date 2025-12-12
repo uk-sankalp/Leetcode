@@ -148,6 +148,7 @@
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/uk-sankalp/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/uk-sankalp/Leetcode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/uk-sankalp/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/uk-sankalp/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/uk-sankalp/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/uk-sankalp/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -224,6 +225,7 @@
 | [2408-number-of-people-aware-of-a-secret](https://github.com/uk-sankalp/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2479-meeting-rooms-iii](https://github.com/uk-sankalp/Leetcode/tree/master/2479-meeting-rooms-iii) |
 | [3336-water-bottles-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/uk-sankalp/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/uk-sankalp/Leetcode/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/uk-sankalp/Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -287,6 +289,7 @@
 | [3321-type-of-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/uk-sankalp/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/uk-sankalp/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/uk-sankalp/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3548-find-the-count-of-good-integers](https://github.com/uk-sankalp/Leetcode/tree/master/3548-find-the-count-of-good-integers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/uk-sankalp/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -813,6 +816,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/uk-sankalp/Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/uk-sankalp/Leetcode/tree/master/3321-type-of-triangle) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/uk-sankalp/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3433-count-mentions-per-user](https://github.com/uk-sankalp/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/uk-sankalp/Leetcode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3622-maximum-frequency-of-an-element-after-performing-operations-i](https://github.com/uk-sankalp/Leetcode/tree/master/3622-maximum-frequency-of-an-element-after-performing-operations-i) |
 | [3640-maximum-frequency-of-an-element-after-performing-operations-ii](https://github.com/uk-sankalp/Leetcode/tree/master/3640-maximum-frequency-of-an-element-after-performing-operations-ii) |
